@@ -1,0 +1,1 @@
+Selenium script file : Project\selenium script\src\test\java\org\parabank\tests
